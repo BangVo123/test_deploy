@@ -11,6 +11,8 @@ import Comments from '@/features/user-reviews/Comments/Comments';
 import Questions from '@/features/user-support/Questions/Questions';
 import generateResponsiveFontSizeClasses from '@/utils/fontsizeResponsiveGenerator';
 
+export const runtime = 'edge';
+
 export async function generateMetadata(props: {
   params: Promise<{ locale: string }>;
 }) {

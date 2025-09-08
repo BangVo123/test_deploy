@@ -1,6 +1,8 @@
 import Title from '@/components/Title';
 import ContactForm from '@/components/ui/ContactForm';
 
+export const runtime = 'edge';
+
 export default function Contact() {
   return (
     <div>

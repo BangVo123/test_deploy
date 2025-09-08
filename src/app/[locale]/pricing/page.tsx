@@ -4,6 +4,8 @@ import Title from '@/components/Title';
 import PricingTableComponents from '@/features/pricing/PricingTableComponents';
 import generateResponsiveFontSizeClasses from '@/utils/fontsizeResponsiveGenerator';
 
+export const runtime = 'edge';
+
 export default function PricingPage() {
   const BannerContent = () => {
     const maxSize60 = generateResponsiveFontSizeClasses(60);
