@@ -1,0 +1,166 @@
+{
+  "Index": {
+    "meta_title": "SaaS Template - Template SaaS hoàn hảo để xây dựng và mở rộng doanh nghiệp của bạn một cách dễ dàng.",
+    "meta_description": "Template landing page miễn phí và mã nguồn mở cho doanh nghiệp SaaS của bạn, được xây dựng với React, TypeScript, Shadcn UI và Tailwind CSS."
+  },
+  "Navbar": {
+    "homepage": "Trang chủ",
+    "pricing": "Bảng giá",
+    "trial": "Đăng ký dùng thử miễn phí",
+    "contact": "Liên hệ",
+    "trial-uppercase": "ĐĂNG KÝ DÙNG THỬ"
+  },
+  "Hero": {
+    "follow_twitter": "Theo dõi @Ixartz trên Twitter",
+    "title": "Template <important>SaaS hoàn hảo</important> để xây dựng và mở rộng doanh nghiệp của bạn một cách dễ dàng.",
+    "description": "Template landing page miễn phí và mã nguồn mở cho doanh nghiệp SaaS của bạn, được xây dựng với React, TypeScript, Shadcn UI và Tailwind CSS.",
+    "primary_button": "Bắt đầu",
+    "secondary_button": "Đánh dấu sao trên GitHub"
+  },
+  "Sponsors": {
+    "title": "Được tài trợ bởi"
+  },
+  "Features": {
+    "section_subtitle": "Tính năng",
+    "section_title": "Mở khóa toàn bộ tiềm năng của SaaS Template",
+    "section_description": "Template landing page miễn phí và mã nguồn mở cho doanh nghiệp SaaS của bạn, được xây dựng với React, TypeScript, Shadcn UI và Tailwind CSS.",
+    "feature1_title": "Node.js",
+    "feature2_title": "React",
+    "feature3_title": "Tailwind CSS",
+    "feature4_title": "TypeScript",
+    "feature5_title": "Shadcn UI",
+    "feature6_title": "ESLint",
+    "feature_description": "Template landing page miễn phí và mã nguồn mở cho doanh nghiệp SaaS của bạn, được xây dựng với React, TypeScript, Shadcn UI và Tailwind CSS."
+  },
+  "Pricing": {
+    "section_subtitle": "Tính năng",
+    "section_title": "Mở khóa toàn bộ tiềm năng của SaaS Template",
+    "section_description": "Template landing page miễn phí và mã nguồn mở cho doanh nghiệp SaaS của bạn, được xây dựng với React, TypeScript, Shadcn UI và Tailwind CSS.",
+    "button_text": "Bắt đầu"
+  },
+  "PricingPlan": {
+    "free_plan_name": "Miễn phí",
+    "premium_plan_name": "Premium",
+    "enterprise_plan_name": "Doanh nghiệp",
+    "free_plan_description": "Cho cá nhân",
+    "premium_plan_description": "Cho nhóm nhỏ",
+    "enterprise_plan_description": "Cho các nhà lãnh đạo ngành",
+    "feature_team_member": "{number} thành viên nhóm",
+    "feature_website": "{number} trang web",
+    "feature_storage": "{number} GB lưu trữ",
+    "feature_transfer": "{number} TB chuyển dữ liệu",
+    "feature_email_support": "Hỗ trợ qua email",
+    "plan_interval_month": "tháng",
+    "plan_interval_year": "năm",
+    "next_renew_date": "Gói đăng ký của bạn sẽ được gia hạn vào {date}"
+  },
+  "FAQ": {
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit."
+  },
+  "CTA": {
+    "title": "Bạn đã sẵn sàng?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "button_text": "Đánh dấu sao trên GitHub"
+  },
+  "Footer": {
+    "home": "Trang chủ",
+    "pricing": "Bảng giá",
+    "freeTrial": "Đăng ký dùng thử miễn phí",
+    "contact": "Liên hệ",
+    "privacy": "Bảo mật",
+    "users": "Người dùng",
+    "payment": "Thanh toán",
+    "policy": "Chính sách",
+    "description": "Ứng dụng học tập trực tuyến dành cho học sinh tiểu học, nội dung được biên soạn theo chuẩn sách chương trình học của Bộ Giáo dục.",
+    "designed_by": "Copyright 2025 SmartLearn. All rights reserved"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "Bạn không có quyền thực hiện hành động này"
+  },
+  "SignIn": {
+    "meta_title": "Đăng nhập",
+    "meta_description": "Đăng nhập vào tài khoản của bạn một cách dễ dàng."
+  },
+  "SignUp": {
+    "meta_title": "Đăng ký",
+    "meta_description": "Tạo tài khoản dễ dàng thông qua quy trình đăng ký trực quan."
+  },
+  "DashboardLayout": {
+    "home": "Trang chủ",
+    "todos": "Công việc",
+    "members": "Thành viên",
+    "billing": "Thanh toán",
+    "settings": "Cài đặt"
+  },
+  "Dashboard": {
+    "meta_title": "Bảng điều khiển SaaS Template",
+    "meta_description": "Template landing page miễn phí và mã nguồn mở cho doanh nghiệp SaaS của bạn, được xây dựng với Next.js, TypeScript, Shadcn UI và Tailwind CSS."
+  },
+  "DashboardIndex": {
+    "title_bar": "Bảng điều khiển",
+    "title_bar_description": "Chào mừng đến với bảng điều khiển của bạn",
+    "message_state_title": "Hãy bắt đầu",
+    "message_state_description": "Bạn có thể tùy chỉnh trang này bằng cách chỉnh sửa tệp tại <code>dashboard/page.tsx</code>",
+    "message_state_button": "Đánh dấu sao trên GitHub",
+    "message_state_alternative": "Muốn có thêm tính năng sử dụng cùng stack? Hãy thử <url></url>."
+  },
+  "UserProfile": {
+    "title_bar": "Hồ sơ người dùng",
+    "title_bar_description": "Xem và quản lý hồ sơ người dùng của bạn"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Quản lý tổ chức",
+    "title_bar_description": "Quản lý tổ chức của bạn"
+  },
+  "Billing": {
+    "title_bar": "Thanh toán",
+    "title_bar_description": "Quản lý thanh toán và đăng ký của bạn",
+    "current_section_title": "Gói hiện tại",
+    "current_section_description": "Điều chỉnh gói thanh toán để phù hợp nhất với yêu cầu của bạn",
+    "manage_subscription_button": "Quản lý đăng ký"
+  },
+  "BillingOptions": {
+    "current_plan": "Gói hiện tại",
+    "upgrade_plan": "Bắt đầu"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Xác nhận thanh toán",
+    "message_state_title": "Thanh toán thành công",
+    "message_state_description": "Thanh toán của bạn đã được xử lý thành công. Cảm ơn bạn đã mua hàng!",
+    "message_state_button": "Quay lại thanh toán"
+  },
+  "DataTable": {
+    "no_results": "Không có kết quả."
+  },
+  "Todos": {
+    "title_bar": "Danh sách công việc",
+    "title_bar_description": "Xem và quản lý danh sách công việc của bạn",
+    "add_todo_button": "Công việc mới"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Mở menu",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa",
+    "title_header": "Tiêu đề",
+    "message_header": "Tin nhắn",
+    "created_at_header": "Tạo lúc"
+  },
+  "AddTodo": {
+    "title_bar": "Thêm công việc",
+    "add_todo_section_title": "Tạo công việc mới",
+    "add_todo_section_description": "Điền vào biểu mẫu bên dưới để tạo công việc mới"
+  },
+  "EditTodo": {
+    "title_bar": "Chỉnh sửa công việc",
+    "edit_todo_section_title": "Chỉnh sửa công việc",
+    "edit_todo_section_description": "Điền vào biểu mẫu bên dưới để chỉnh sửa công việc"
+  },
+  "TodoForm": {
+    "title_label": "Tiêu đề",
+    "title_description": "Nhập tiêu đề mô tả cho công việc của bạn.",
+    "message_title": "Tin nhắn",
+    "message_description": "Nhập tin nhắn chi tiết cho công việc của bạn.",
+    "submit_button": "Gửi"
+  }
+}

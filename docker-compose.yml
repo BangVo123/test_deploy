@@ -1,0 +1,22 @@
+name: b-learning-${ENV:-}
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: b-learning-${ENV:-}:latest
+    container_name: b-learning-${ENV:-}
+    env_file:
+      - .env
+    ports:
+      - ${PORT:-}:${PORT:-3000}
+    environment:
+      - NODE_ENV=${ENV:-dev}
+      - NEXT_TELEMETRY_DISABLED=1
+    restart: unless-stopped
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
